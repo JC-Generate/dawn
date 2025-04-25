@@ -44,6 +44,8 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/man-adjusts-his-shirt-cuffs-below-watch.jpg",
+        "image_2": "shopify://shop_images/urban-mens-fashion-on-young-adult.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
